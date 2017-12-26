@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="wtf.chuck.arcore">
+
+  <application>
+    <activity android:excludeFromRecents="true" android:name="wtf.chuck.arcore.ARCorePixelFixActivity" android:theme="@style/Theme.AppCompat.Transparent.NoActionBar" />
+  </application>
+
+</manifest>
